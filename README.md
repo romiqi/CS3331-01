@@ -6,7 +6,7 @@ If you don't have tinker,please install it with the command below:
 pip install tk
 `
 
-To run this file,you can use command below:  
+To run this file,you can use the command below:  
 `
   python itemrevive.py
 `
